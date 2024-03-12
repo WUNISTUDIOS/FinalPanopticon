@@ -1,3 +1,17 @@
-[0311/205449.360:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[0311/205500.210:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0311/205649.767:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0312/032807.169:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0312/032938.984:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0312/045855.811:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0312/045856.144:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0312/045856.476:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0312/045856.809:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0312/045857.142:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0312/045857.475:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0312/045857.809:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0312/045858.142:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0312/045858.477:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0312/045858.810:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0312/045859.143:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0312/045859.477:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0312/045859.812:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0312/045900.145:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0312/045900.382:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)

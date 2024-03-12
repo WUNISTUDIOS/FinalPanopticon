@@ -1,3 +1,6 @@
-2024/03/10-00:15:41.714 65c0 Reusing MANIFEST D:/active_labour/unreal/FinalPanopticon/FinalPanopticon/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/03/10-00:15:41.725 65c0 Recovering log #4
-2024/03/10-00:15:41.727 65c0 Reusing old log D:/active_labour/unreal/FinalPanopticon/FinalPanopticon/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2024/03/12-01:44:23.679 4e94 Reusing MANIFEST D:/active_labour/unreal/FinalPanopticon/FinalPanopticon/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/03/12-01:44:23.681 4e94 Recovering log #4
+2024/03/12-01:44:23.682 4e94 Reusing old log D:/active_labour/unreal/FinalPanopticon/FinalPanopticon/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2024/03/12-01:57:55.011 1944 Level-0 table #8: started
+2024/03/12-01:57:55.014 1944 Level-0 table #8: 18924 bytes OK
+2024/03/12-01:57:55.017 1944 Delete type=0 #4
