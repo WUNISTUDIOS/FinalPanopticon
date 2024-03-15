@@ -7687,5 +7687,5 @@ Material_Clamp_WorldGroupSettings, Material, 8, 1
 NULL, NULL, 0, 0
 #endif /*END_RESOURCE_TABLES*/
 #if 0 /*DIRECT COMPILE*/
--directcompile -format=PCD3D_SM5 -entry=MainPS -shaderPlatformName=PCD3D_SM5_Preview -ps D:/active_labour/unreal/FinalPanopticon/FinalPanopticon/Saved/ShaderDebugInfo/PCD3D_SM5_Preview/Rain_Large_WaterMat_776d10599e52b83/Default/FLocalVertexFactory/FLumenTranslucencyRadianceCacheMarkPS/0/LumenTranslucencyRadianceCacheMarkShaders.usf -cflags=8589938688 -nocrashreports
+-directcompile -format=PCD3D_SM5 -entry=MainPS -shaderPlatformName=PCD3D_SM5_Preview -ps C:/Users/user/Documents/Unreal Projects/panopticon shot 3/Panopticon New/FinalPanopticon/Saved/ShaderDebugInfo/PCD3D_SM5_Preview/Rain_Large_WaterMat_776d10599e52b83/Default/FLocalVertexFactory/FLumenTranslucencyRadianceCacheMarkPS/0/LumenTranslucencyRadianceCacheMarkShaders.usf -cflags=8589938688 -nocrashreports
 #endif /*DIRECT COMPILE*/
